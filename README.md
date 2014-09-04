@@ -1,3 +1,4 @@
 FlymeStyle
 ==========
-Flyme style statusbar on miui redmi note miui version 30.0
+Flyme style statusbar for miui redmi note
+miui version 30.0
