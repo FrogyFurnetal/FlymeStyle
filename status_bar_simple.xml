@@ -40,6 +40,7 @@
 				</LinearLayout>
 				<!-- Line dibawah untuk center clock -->
 				<com.android.systemui.statusbar.policy.Clock android:textAppearance="@style/TextAppearance.StatusBar.Clock" android:gravity="center" android:id="@id/clock" android:paddingTop="1.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" />
+				<!-- Line kanan -->
 				<LinearLayout android:gravity="right" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
 					<LinearLayout android:gravity="right" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent">
 						<com.android.systemui.statusbar.NetworkSpeedView android:gravity="right" android:textAppearance="@style/TextAppearance.StatusBar.Clock" android:id="@id/network_speed_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="4.0dip" android:singleLine="true" />
